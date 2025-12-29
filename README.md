@@ -1,6 +1,6 @@
 # Chinmay Mudholkar | Test Automation & Quality Engineering
 
-Hey there! 👋 I'm Chinmay, and I've been breaking (and then automating the fixing of) software for over 20 years. 
+Hey there! 👋 I'm Chinmay, and I've been breaking (and then automating the fixing of) software for over 20 years. This is my personal repository of code snippets and patterns that I've worked on over the years.
 
 My journey into the world of automation started back when **QTP 8.5** was the "cool kid" on the block and "The Cloud" was just something that brought rain. Since those days of VBScript and heavy IDEs, I’ve evolved alongside the industry—transitioning through a spectrum of languages, tools, and methodologies. 
 
@@ -17,6 +17,6 @@ Over the years, I've collected a fair share of tools and languages. Here’s a s
 
 ### About This Repo
 
-This isn't just a collection of code snippets; it's my **personal knowledge base**. Think of it as a "distilled" version of my experiments, patterns, and best practices gathered over the years. 
+This isn't just a collection of code snippets; it's my **personal knowledge base**. Think of it as a "distilled" version of my experiments, and patterns I've worked on over the years. 
 
 Feel free to poke around, borrow some patterns, or just enjoy the clean code!
