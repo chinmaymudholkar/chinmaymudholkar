@@ -1,12 +1,12 @@
 # Chinmay Mudholkar | Quality Engineering & Automation
 
-Hello! I'm Chinmay. I've spent the better part of the last two decades making software do what I want it to do - whether that's automating tests, builds, or just making sure it works for end users.
+Hello! I'm Chinmay. I've spent the better part of the last two decades making software do what I want it to do - whether that's automating tests, automating builds, or just making sure it works for end users.
 
 ### The Journey (So Far)
 
 My automation adventures began in the era of **QTP 8.5**, a time when VBScript was the language of choice and "The Cloud" was still just a meteorologist's concern. Since those early days of separate object repositories and recording and playback, I've had the privilege of evolving alongside the industry, transitioning through various tools, frameworks, and philosophies.
 
-Over 20+ years, I've learned that while tools change, the core mission remains the same: ensuring that software doesn't just pass technical checks, but actually solves business challenges and serves the real-world needs of end users. I don't just build frameworks to handle the "creative" edge cases that users - and occasionally developers - dream up; I try to build sustainable ecosystems that help teams move faster without the fear of things going clunk in the night.
+Over the past few years, I've learned that while tools change, the core mission remains the same: ensuring that software doesn't just pass technical checks, but actually solves business challenges and serves the real-world needs of end users. I don't just build frameworks to handle the "creative" edge cases that users - and occasionally developers - dream up; I try to build sustainable ecosystems that help teams move faster without the fear of things going clunk in the night.
 
 ### The Digital Toolbox
 
