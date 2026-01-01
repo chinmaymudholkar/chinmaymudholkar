@@ -19,7 +19,7 @@ I've had the chance to work with a wide mix of tools and technologies, and each 
 
 ## About This Repository
 
-These repositories are basically my digital sandbox - a place where I stash patterns, experiments, and ideas I've picked up along the way. It's pretty simple on purpose - just a collection of artefacts that might be helpful to me or anyone browsing through.
+These repositories are basically my digital sandbox - a place where I stash patterns, experiments, and ideas I've picked up along the way. It's pretty simple on purpose - just a collection of artefacts that might be helpful to anyone browsing through.
 
 Feel free to poke around, borrow anything, or tell me if you see a better way to do something. I'm still learning too.
 
